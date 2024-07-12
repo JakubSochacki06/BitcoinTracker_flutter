@@ -10,14 +10,6 @@
 Crypto prices tracking app created in flutter with API usage.
 
 
-## Screenshots
-
-![App Screenshot](https://github.com/JakubSochacki06/quizzler_flutter/blob/master/files/photo1.jpg)
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
 ## Lessons Learned
 
 How to properly use widgets for each platfrom (Android and IOS)
